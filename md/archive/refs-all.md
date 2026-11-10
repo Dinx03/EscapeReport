@@ -1,0 +1,29 @@
+[1] D. L. Parnas, "On the criteria to be used in decomposing systems into modules," *Communications of the ACM*, vol. 15, no. 12, pp. 1053–1058, Dec. 1972.
+[2] W. P. Stevens, G. J. Myers, and L. L. Constantine, "Structured design," *IBM Systems Journal*, vol. 13, no. 2, pp. 115–139, 1974.
+[3] M. Fowler, *Refactoring: Improving the Design of Existing Code*, 2nd ed. Boston, MA, USA: Addison-Wesley, 2018.
+[4] *Systems and Software Engineering — Systems and Software Quality Requirements and Evaluation (SQuaRE) — System and Software Quality Models*, ISO/IEC 25010:2011, International Organization for Standardization, Geneva, Switzerland, 2011.
+[5] R. Nystrom, *Game Programming Patterns*. Genever Benning, 2014.
+[6] J. Gregory, *Game Engine Architecture*, 3rd ed. Boca Raton, FL, USA: CRC Press, 2018.
+[7] E. Gamma, R. Helm, R. Johnson, and J. Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA, USA: Addison-Wesley, 1994.
+[8] R. C. Martin, *Agile Software Development: Principles, Patterns, and Practices*. Upper Saddle River, NJ, USA: Prentice Hall, 2002.
+[9] R. C. Martin, *Clean Architecture: A Craftsman's Guide to Software Structure and Design*. Boston, MA, USA: Prentice Hall, 2017.
+[10] B. Meyer, *Object-Oriented Software Construction*, 2nd ed. Upper Saddle River, NJ, USA: Prentice Hall, 1997.
+[11] E. W. Dijkstra, "On the role of scientific thought," in *Selected Writings on Computing: A Personal Perspective*. New York, NY, USA: Springer-Verlag, 1982, pp. 60–66.
+[12] Unity Technologies, "ScriptableObject data assets," *Unity 6.3 User Manual*. [Online]. Available: https://docs.unity.com/en-us/engine/6000.3/manual/scripting/get-started/fundamental-unity-types/class-scriptable-object. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[13] Unity Technologies, "deltaTime," *Unity Scripting API Reference*. [Online]. Available: https://docs.unity.com/en-us/engine/current/script-reference/unityengine/time/deltatime. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[14] Unity Technologies, "Event function execution order," *Unity 6.3 User Manual*. [Online]. Available: https://docs.unity.com/en-us/engine/6000.3/manual/scripting/managing-update-order/execution-order. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[15] D. Goldberg, "What every computer scientist should know about floating-point arithmetic," *ACM Computing Surveys*, vol. 23, no. 1, pp. 5–48, Mar. 1991.
+[16] *IEEE Standard for Floating-Point Arithmetic*, IEEE Std 754-2019, Jul. 2019.
+[17] G. Meszaros, *xUnit Test Patterns: Refactoring Test Code*. Boston, MA, USA: Addison-Wesley, 2007.
+[18] N. Ford, R. Parsons, and P. Kua, *Building Evolutionary Architectures: Support Constant Change*. Sebastopol, CA, USA: O'Reilly Media, 2017.
+[19] Unity Technologies, "Introduction to the Universal Render Pipeline," *Unity 6.3 User Manual*. [Online]. Available: https://docs.unity.com/en-us/engine/6000.3/manual/render-pipelines/universal-render-pipeline/urp-introduction. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[20] *C# Language Specification*, Standard ECMA-334, 6th ed., ECMA International, Geneva, Switzerland, Jun. 2022.
+[21] Unity Technologies, "MonoBehaviour," *Unity Scripting API Reference*. [Online]. Available: https://docs.unity.com/en-us/engine/current/script-reference/unityengine/monobehaviour. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[22] Unity Technologies, "Prefabs," *Unity 6.3 User Manual*. [Online]. Available: https://docs.unity.com/en-us/engine/6000.3/manual/working-with-gameobjects/prefabs. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[23] Unity Technologies, "Referencing assemblies," *Unity 6.3 User Manual*. [Online]. Available: https://docs.unity.com/en-us/engine/6000.3/manual/programming-environment/script-compilation/assembly-definition-files/assembly-definitions-referencing. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[24] Unity Technologies, "Input System," *Input System Package Documentation*, version 1.17.0. [Online]. Available: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.17/manual/index.html. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[25] Unity Technologies, "Unity Test Framework," *Test Framework Package Documentation*, version 1.6.0. [Online]. Available: https://docs.unity3d.com/Packages/com.unity.test-framework@1.6/manual/index.html. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[26] NUnit Project, "NUnit — a unit-testing framework for all .NET languages." [Online]. Available: https://nunit.org. [สืบค้นวันที่ 6 พฤศจิกายน 2569].
+[27] M. Hendrikx, S. Meijer, J. Van Der Velden, and A. Iosup, "Procedural content generation for games: A survey," *ACM Transactions on Multimedia Computing, Communications, and Applications*, vol. 9, no. 1, pp. 1–22, Feb. 2013.
+[28] N. Shaker, J. Togelius, and M. J. Nelson, *Procedural Content Generation in Games*. Cham, Switzerland: Springer, 2016.
+[29] Model Context Protocol, "What is the Model Context Protocol (MCP)?" [Online]. Available: https://modelcontextprotocol.io. [สืบค้นวันที่ 6 พฤศจิกายน 2569].

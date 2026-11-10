@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f9e88bfd64161449a37e4122d3e370d, type: 3}
+  m_Name: PlankClock
+  m_EditorClassIdentifier: EscapeRoom.Clock::ClockRecipe
+  caseModel: {fileID: 1120538056086718848, guid: 210e5ececb7b146429a7979178774ed6, type: 3}
+  fittings:
+  - Prefab: {fileID: 688082610893098356, guid: 1da09a56c0180364d899cae629c873b0, type: 3}
+    At: {x: 0, y: 0.1, z: 0.042}
+    Turn: {x: 0, y: 0, z: 0}
+    Scale: 0.9
+  - Prefab: {fileID: 3472667935790548698, guid: 381d67b5507ed244c8a22c97d97dfc02, type: 3}
+    At: {x: 0, y: 0, z: 0}
+    Turn: {x: 0, y: 0, z: 0}
+    Scale: 1
+  - Prefab: {fileID: 4501578409894858278, guid: cb795f97bcf073f4485443bb23c8a29e, type: 3}
+    At: {x: 0, y: 0.02, z: 0.03}
+    Turn: {x: 0, y: 0, z: 0}
+    Scale: 1
+  condition: 3
+  startHour: 3
+  startMinute: 25
+  minutesPerSecond: 0.016666668

@@ -1,0 +1,24 @@
+* text=auto eol=lf
+
+*.md  text eol=lf
+*.py  text eol=lf
+*.ps1 text eol=lf
+
+# Documents and media: binary, never line-ending converted or diffed.
+*.docx binary
+*.doc  binary
+*.pdf  binary
+*.pptx binary
+*.xlsx binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.mp3  binary
+*.mp4  binary
+*.ttf  binary
+*.otf  binary
+*.unity   binary
+*.prefab  binary
+*.asset   binary
+*.mat     binary

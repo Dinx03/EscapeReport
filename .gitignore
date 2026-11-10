@@ -1,0 +1,13 @@
+# Python cache from tools/
+__pycache__/
+*.py[cod]
+
+# Word/Excel lock files — present only while a document is open
+~$*
+
+# OS cruft
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store

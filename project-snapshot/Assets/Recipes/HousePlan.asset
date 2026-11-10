@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 013ebf23cff76c746a9fa27be3161af9, type: 3}
+  m_Name: HousePlan
+  m_EditorClassIdentifier: EscapeRoom.World::HousePlan
+  rooms:
+  - Name: Room_I_Showroom
+    X0: -3
+    Z0: -2.5
+    X1: 3
+    Z1: 2.5
+    Floor: {r: 0.42, g: 0.32, b: 0.25, a: 1}
+    Boards: 1
+    FloorTile: 1.05
+    Roofless: 0
+  - Name: Room_II_Workshop
+    X0: -3
+    Z0: 2.7
+    X1: 3
+    Z1: 9.5
+    Floor: {r: 0.33, g: 0.3, b: 0.27, a: 1}
+    Boards: 1
+    FloorTile: 0.95
+    Roofless: 0
+  - Name: Room_III_Parlour
+    X0: 3.2
+    Z0: 2.7
+    X1: 10
+    Z1: 9.5
+    Floor: {r: 0.34, g: 0.2, b: 0.17, a: 1}
+    Boards: 0
+    FloorTile: 0.9
+    Roofless: 0
+  - Name: Room_IV_Bedroom
+    X0: 3.2
+    Z0: -2.5
+    X1: 10
+    Z1: 2.5
+    Floor: {r: 0.27, g: 0.24, b: 0.29, a: 1}
+    Boards: 0
+    FloorTile: 0.9
+    Roofless: 0
+  - Name: Room_V_Behind
+    X0: 10.2
+    Z0: -4.9
+    X1: 19.4
+    Z1: 2.6
+    Floor: {r: 0.2, g: 0.18, b: 0.16, a: 1}
+    Boards: 1
+    FloorTile: 0.9
+    Roofless: 1
+  walls:
+  - AlongX: 1
+    Fixed: -2.6
+    From: -3.1
+    To: 10.1
+    Outward: -1
+    Openings:
+    - Kind: 1
+      Centre: -1.7
+    - Kind: 0
+      Centre: 1.3
+    - Kind: 1
+      Centre: 6.6
+  - AlongX: 1
+    Fixed: 9.6
+    From: -3.1
+    To: 10.1
+    Outward: 1
+    Openings:
+    - Kind: 1
+      Centre: -1.2
+  - AlongX: 0
+    Fixed: -3.1
+    From: -2.6
+    To: 9.6
+    Outward: -1
+    Openings:
+    - Kind: 1
+      Centre: 6
+  - AlongX: 0
+    Fixed: 10.1
+    From: -2.6
+    To: 9.6
+    Outward: 1
+    Openings:
+    - Kind: 0
+      Centre: 1.4
+    - Kind: 1
+      Centre: 6.5
+  - AlongX: 1
+    Fixed: -5
+    From: 10.1
+    To: 19.5
+    Outward: -1
+    Openings: []
+  - AlongX: 1
+    Fixed: 2.7
+    From: 10.1
+    To: 19.5
+    Outward: 1
+    Openings: []
+  - AlongX: 0
+    Fixed: 19.5
+    From: -5
+    To: 2.7
+    Outward: 1
+    Openings:
+    - Kind: 0
+      Centre: 1.4
+  - AlongX: 1
+    Fixed: 2.6
+    From: -3.1
+    To: 10.1
+    Outward: 0
+    Openings:
+    - Kind: 0
+      Centre: 0
+    - Kind: 0
+      Centre: 6.5
+  - AlongX: 0
+    Fixed: 3.1
+    From: -2.6
+    To: 9.6
+    Outward: 0
+    Openings:
+    - Kind: 0
+      Centre: 6
+  doorWidth: 1.1
+  doorTop: 2.15
+  windowWidth: 1.3
+  windowSill: 0.95
+  windowHead: 2.1
